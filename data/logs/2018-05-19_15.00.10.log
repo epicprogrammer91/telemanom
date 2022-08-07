@@ -1,0 +1,1184 @@
+2022-08-01 15:24:53,514 INFO 82 channels found for processing.
+2022-08-01 15:24:53,592 INFO Stream # 1: A-1
+2022-08-01 15:24:54,073 INFO normalized prediction error: 0.01
+2022-08-01 15:25:12,259 INFO 82 channels found for processing.
+2022-08-01 15:25:12,279 INFO Stream # 1: P-1
+2022-08-01 15:25:12,587 INFO normalized prediction error: 0.09
+2022-08-01 16:55:26,951 INFO 82 channels found for processing.
+2022-08-01 16:55:27,002 INFO Stream # 1: P-1
+2022-08-01 16:55:27,528 INFO normalized prediction error: 0.09
+2022-08-01 17:03:11,605 INFO 82 channels found for processing.
+2022-08-01 17:03:11,606 INFO Stream # 1: P-1
+2022-08-01 17:03:11,838 INFO normalized prediction error: 0.09
+2022-08-01 17:04:32,755 INFO 82 channels found for processing.
+2022-08-01 17:04:32,756 INFO Stream # 1: P-1
+2022-08-01 17:04:32,978 INFO normalized prediction error: 0.09
+2022-08-01 17:05:23,086 INFO 82 channels found for processing.
+2022-08-01 17:05:23,088 INFO Stream # 1: P-1
+2022-08-01 17:05:23,284 INFO normalized prediction error: 0.09
+2022-08-01 17:05:58,845 INFO 82 channels found for processing.
+2022-08-01 17:05:58,846 INFO Stream # 1: P-1
+2022-08-01 17:05:59,045 INFO normalized prediction error: 0.09
+2022-08-01 17:05:59,862 INFO Channel Stats: TP: 3  FP: 1  FN: 0
+2022-08-01 17:05:59,863 INFO Total true positives: 3
+2022-08-01 17:05:59,864 INFO Total false positives: 1
+2022-08-01 17:05:59,865 INFO Total false negatives: 0
+
+2022-08-01 17:05:59,981 INFO Stream # 2: S-1
+2022-08-01 17:06:00,379 INFO normalized prediction error: 0.19
+2022-08-01 17:06:01,058 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:01,059 INFO Total true positives: 4
+2022-08-01 17:06:01,060 INFO Total false positives: 1
+2022-08-01 17:06:01,061 INFO Total false negatives: 0
+
+2022-08-01 17:06:01,065 INFO Stream # 3: E-1
+2022-08-01 17:06:01,445 INFO normalized prediction error: 0.07
+2022-08-01 17:06:02,316 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-01 17:06:02,317 INFO Total true positives: 6
+2022-08-01 17:06:02,318 INFO Total false positives: 2
+2022-08-01 17:06:02,318 INFO Total false negatives: 0
+
+2022-08-01 17:06:02,323 INFO Stream # 4: E-2
+2022-08-01 17:06:02,711 INFO normalized prediction error: 0.07
+2022-08-01 17:06:03,321 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:03,321 INFO Total true positives: 7
+2022-08-01 17:06:03,324 INFO Total false positives: 2
+2022-08-01 17:06:03,324 INFO Total false negatives: 0
+
+2022-08-01 17:06:03,329 INFO Stream # 5: E-3
+2022-08-01 17:06:03,712 INFO normalized prediction error: 0.02
+2022-08-01 17:06:04,589 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:04,590 INFO Total true positives: 8
+2022-08-01 17:06:04,591 INFO Total false positives: 2
+2022-08-01 17:06:04,591 INFO Total false negatives: 0
+
+2022-08-01 17:06:04,600 INFO Stream # 6: E-4
+2022-08-01 17:06:04,971 INFO normalized prediction error: 0.06
+2022-08-01 17:06:05,622 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:05,622 INFO Total true positives: 9
+2022-08-01 17:06:05,624 INFO Total false positives: 2
+2022-08-01 17:06:05,624 INFO Total false negatives: 0
+
+2022-08-01 17:06:05,630 INFO Stream # 7: E-5
+2022-08-01 17:06:06,045 INFO normalized prediction error: 0.08
+2022-08-01 17:06:06,672 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:06,673 INFO Total true positives: 10
+2022-08-01 17:06:06,675 INFO Total false positives: 2
+2022-08-01 17:06:06,675 INFO Total false negatives: 0
+
+2022-08-01 17:06:06,679 INFO Stream # 8: E-6
+2022-08-01 17:06:07,045 INFO normalized prediction error: 0.01
+2022-08-01 17:06:07,819 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:07,819 INFO Total true positives: 11
+2022-08-01 17:06:07,821 INFO Total false positives: 2
+2022-08-01 17:06:07,821 INFO Total false negatives: 0
+
+2022-08-01 17:06:07,826 INFO Stream # 9: E-7
+2022-08-01 17:06:08,177 INFO normalized prediction error: 0.03
+2022-08-01 17:06:08,984 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:08,984 INFO Total true positives: 12
+2022-08-01 17:06:08,989 INFO Total false positives: 2
+2022-08-01 17:06:08,989 INFO Total false negatives: 0
+
+2022-08-01 17:06:08,994 INFO Stream # 10: E-8
+2022-08-01 17:06:09,445 INFO normalized prediction error: 0.07
+2022-08-01 17:06:09,945 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:09,945 INFO Total true positives: 13
+2022-08-01 17:06:09,947 INFO Total false positives: 2
+2022-08-01 17:06:09,947 INFO Total false negatives: 0
+
+2022-08-01 17:06:09,952 INFO Stream # 11: E-9
+2022-08-01 17:06:10,335 INFO normalized prediction error: 0.05
+2022-08-01 17:06:10,799 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:10,799 INFO Total true positives: 14
+2022-08-01 17:06:10,801 INFO Total false positives: 2
+2022-08-01 17:06:10,801 INFO Total false negatives: 0
+
+2022-08-01 17:06:10,806 INFO Stream # 12: E-10
+2022-08-01 17:06:11,177 INFO normalized prediction error: 0.07
+2022-08-01 17:06:12,009 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-01 17:06:12,010 INFO Total true positives: 16
+2022-08-01 17:06:12,011 INFO Total false positives: 3
+2022-08-01 17:06:12,011 INFO Total false negatives: 0
+
+2022-08-01 17:06:12,016 INFO Stream # 13: E-11
+2022-08-01 17:06:12,368 INFO normalized prediction error: 0.08
+2022-08-01 17:06:13,229 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-01 17:06:13,230 INFO Total true positives: 18
+2022-08-01 17:06:13,231 INFO Total false positives: 4
+2022-08-01 17:06:13,233 INFO Total false negatives: 0
+
+2022-08-01 17:06:13,237 INFO Stream # 14: E-12
+2022-08-01 17:06:13,600 INFO normalized prediction error: 0.06
+2022-08-01 17:06:14,230 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-01 17:06:14,232 INFO Total true positives: 20
+2022-08-01 17:06:14,235 INFO Total false positives: 5
+2022-08-01 17:06:14,236 INFO Total false negatives: 0
+
+2022-08-01 17:06:14,241 INFO Stream # 15: E-13
+2022-08-01 17:06:14,610 INFO normalized prediction error: 0.06
+2022-08-01 17:06:15,265 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2022-08-01 17:06:15,265 INFO Total true positives: 22
+2022-08-01 17:06:15,267 INFO Total false positives: 5
+2022-08-01 17:06:15,267 INFO Total false negatives: 1
+
+2022-08-01 17:06:15,273 INFO Stream # 16: A-1
+2022-08-01 17:06:15,647 INFO normalized prediction error: 0.01
+2022-08-01 17:06:16,410 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:16,410 INFO Total true positives: 23
+2022-08-01 17:06:16,412 INFO Total false positives: 5
+2022-08-01 17:06:16,412 INFO Total false negatives: 1
+
+2022-08-01 17:06:16,419 INFO Stream # 17: D-1
+2022-08-01 17:06:16,815 INFO normalized prediction error: 0.07
+2022-08-01 17:06:17,434 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:17,435 INFO Total true positives: 24
+2022-08-01 17:06:17,437 INFO Total false positives: 5
+2022-08-01 17:06:17,437 INFO Total false negatives: 1
+
+2022-08-01 17:06:17,445 INFO Stream # 18: P-2
+2022-08-01 17:06:17,848 INFO normalized prediction error: 0.05
+2022-08-01 17:06:18,299 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:18,300 INFO Total true positives: 25
+2022-08-01 17:06:18,301 INFO Total false positives: 5
+2022-08-01 17:06:18,302 INFO Total false negatives: 1
+
+2022-08-01 17:06:18,307 INFO Stream # 19: P-3
+2022-08-01 17:06:18,683 INFO normalized prediction error: 0.04
+2022-08-01 17:06:19,253 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:19,254 INFO Total true positives: 26
+2022-08-01 17:06:19,254 INFO Total false positives: 5
+2022-08-01 17:06:19,255 INFO Total false negatives: 1
+
+2022-08-01 17:06:19,261 INFO Stream # 20: D-2
+2022-08-01 17:06:19,655 INFO normalized prediction error: 0.02
+2022-08-01 17:06:20,367 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:20,367 INFO Total true positives: 27
+2022-08-01 17:06:20,368 INFO Total false positives: 5
+2022-08-01 17:06:20,369 INFO Total false negatives: 1
+
+2022-08-01 17:06:20,375 INFO Stream # 21: D-3
+2022-08-01 17:06:20,879 INFO normalized prediction error: 0.06
+2022-08-01 17:06:21,613 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:21,613 INFO Total true positives: 28
+2022-08-01 17:06:21,614 INFO Total false positives: 5
+2022-08-01 17:06:21,615 INFO Total false negatives: 1
+
+2022-08-01 17:06:21,623 INFO Stream # 22: D-4
+2022-08-01 17:06:22,090 INFO normalized prediction error: 0.05
+2022-08-01 17:06:22,688 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:22,689 INFO Total true positives: 29
+2022-08-01 17:06:22,690 INFO Total false positives: 5
+2022-08-01 17:06:22,691 INFO Total false negatives: 1
+
+2022-08-01 17:06:22,697 INFO Stream # 23: A-2
+2022-08-01 17:06:23,066 INFO normalized prediction error: 0.07
+2022-08-01 17:06:23,782 INFO Channel Stats: TP: 1  FP: 2  FN: 0
+2022-08-01 17:06:23,783 INFO Total true positives: 30
+2022-08-01 17:06:23,785 INFO Total false positives: 7
+2022-08-01 17:06:23,786 INFO Total false negatives: 1
+
+2022-08-01 17:06:23,795 INFO Stream # 24: A-3
+2022-08-01 17:06:24,167 INFO normalized prediction error: 0.05
+2022-08-01 17:06:24,844 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:24,845 INFO Total true positives: 31
+2022-08-01 17:06:24,846 INFO Total false positives: 7
+2022-08-01 17:06:24,847 INFO Total false negatives: 1
+
+2022-08-01 17:06:24,853 INFO Stream # 25: A-4
+2022-08-01 17:06:25,201 INFO normalized prediction error: 0.06
+2022-08-01 17:06:25,948 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:25,948 INFO Total true positives: 32
+2022-08-01 17:06:25,949 INFO Total false positives: 7
+2022-08-01 17:06:25,950 INFO Total false negatives: 1
+
+2022-08-01 17:06:25,957 INFO Stream # 26: G-1
+2022-08-01 17:06:26,347 INFO normalized prediction error: 0.07
+2022-08-01 17:06:26,938 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-08-01 17:06:26,939 INFO Total true positives: 32
+2022-08-01 17:06:26,940 INFO Total false positives: 8
+2022-08-01 17:06:26,940 INFO Total false negatives: 2
+
+2022-08-01 17:06:26,946 INFO Stream # 27: G-2
+2022-08-01 17:06:27,269 INFO normalized prediction error: 0.01
+2022-08-01 17:06:27,856 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:27,856 INFO Total true positives: 33
+2022-08-01 17:06:27,858 INFO Total false positives: 8
+2022-08-01 17:06:27,859 INFO Total false negatives: 2
+
+2022-08-01 17:06:27,864 INFO Stream # 28: D-5
+2022-08-01 17:06:28,190 INFO normalized prediction error: 0.12
+2022-08-01 17:06:28,755 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:28,756 INFO Total true positives: 34
+2022-08-01 17:06:28,757 INFO Total false positives: 8
+2022-08-01 17:06:28,758 INFO Total false negatives: 2
+
+2022-08-01 17:06:28,764 INFO Stream # 29: D-6
+2022-08-01 17:06:29,179 INFO normalized prediction error: 0.05
+2022-08-01 17:06:29,870 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:29,871 INFO Total true positives: 35
+2022-08-01 17:06:29,872 INFO Total false positives: 8
+2022-08-01 17:06:29,872 INFO Total false negatives: 2
+
+2022-08-01 17:06:29,878 INFO Stream # 30: D-7
+2022-08-01 17:06:30,195 INFO normalized prediction error: 0.05
+2022-08-01 17:06:30,826 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:30,827 INFO Total true positives: 36
+2022-08-01 17:06:30,828 INFO Total false positives: 8
+2022-08-01 17:06:30,829 INFO Total false negatives: 2
+
+2022-08-01 17:06:30,834 INFO Stream # 31: F-1
+2022-08-01 17:06:31,280 INFO normalized prediction error: 0.10
+2022-08-01 17:06:31,975 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-08-01 17:06:31,976 INFO Total true positives: 36
+2022-08-01 17:06:31,977 INFO Total false positives: 9
+2022-08-01 17:06:31,978 INFO Total false negatives: 3
+
+2022-08-01 17:06:31,984 INFO Stream # 32: P-4
+2022-08-01 17:06:32,359 INFO normalized prediction error: 0.02
+2022-08-01 17:06:33,731 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-08-01 17:06:33,756 INFO Total true positives: 39
+2022-08-01 17:06:33,758 INFO Total false positives: 9
+2022-08-01 17:06:33,760 INFO Total false negatives: 3
+
+2022-08-01 17:06:33,776 INFO Stream # 33: G-3
+2022-08-01 17:06:34,180 INFO normalized prediction error: 0.01
+2022-08-01 17:06:35,183 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2022-08-01 17:06:35,183 INFO Total true positives: 40
+2022-08-01 17:06:35,185 INFO Total false positives: 10
+2022-08-01 17:06:35,186 INFO Total false negatives: 3
+
+2022-08-01 17:06:35,193 INFO Stream # 34: T-1
+2022-08-01 17:06:35,599 INFO normalized prediction error: 0.05
+2022-08-01 17:06:36,351 INFO Channel Stats: TP: 1  FP: 2  FN: 1
+2022-08-01 17:06:36,351 INFO Total true positives: 41
+2022-08-01 17:06:36,353 INFO Total false positives: 12
+2022-08-01 17:06:36,353 INFO Total false negatives: 4
+
+2022-08-01 17:06:36,359 INFO Stream # 35: T-2
+2022-08-01 17:06:36,805 INFO normalized prediction error: 0.04
+2022-08-01 17:06:37,626 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:06:37,627 INFO Total true positives: 42
+2022-08-01 17:06:37,628 INFO Total false positives: 12
+2022-08-01 17:06:37,629 INFO Total false negatives: 4
+
+2022-08-01 17:06:37,639 INFO Stream # 36: D-8
+2022-08-01 17:06:38,068 INFO normalized prediction error: 0.00
+2022-08-01 17:06:39,280 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:06:39,281 INFO Total true positives: 42
+2022-08-01 17:06:39,282 INFO Total false positives: 12
+2022-08-01 17:06:39,283 INFO Total false negatives: 5
+
+2022-08-01 17:06:39,293 INFO Stream # 37: D-9
+2022-08-01 17:06:39,617 INFO normalized prediction error: 0.02
+2022-08-01 17:07:33,065 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:33,066 INFO Total true positives: 43
+2022-08-01 17:07:33,066 INFO Total false positives: 12
+2022-08-01 17:07:33,066 INFO Total false negatives: 5
+
+2022-08-01 17:07:33,074 INFO Stream # 38: F-2
+2022-08-01 17:07:33,416 INFO normalized prediction error: 0.05
+2022-08-01 17:07:34,166 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:34,167 INFO Total true positives: 44
+2022-08-01 17:07:34,168 INFO Total false positives: 12
+2022-08-01 17:07:34,173 INFO Total false negatives: 5
+
+2022-08-01 17:07:34,179 INFO Stream # 39: G-4
+2022-08-01 17:07:34,583 INFO normalized prediction error: 0.01
+2022-08-01 17:07:35,261 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:35,261 INFO Total true positives: 45
+2022-08-01 17:07:35,262 INFO Total false positives: 12
+2022-08-01 17:07:35,266 INFO Total false negatives: 5
+
+2022-08-01 17:07:35,273 INFO Stream # 40: T-3
+2022-08-01 17:07:35,626 INFO normalized prediction error: 0.00
+2022-08-01 17:07:36,644 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-01 17:07:36,645 INFO Total true positives: 47
+2022-08-01 17:07:36,645 INFO Total false positives: 12
+2022-08-01 17:07:36,649 INFO Total false negatives: 5
+
+2022-08-01 17:07:36,659 INFO Stream # 41: D-11
+2022-08-01 17:07:36,997 INFO normalized prediction error: 0.01
+2022-08-01 17:07:37,584 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:37,585 INFO Total true positives: 48
+2022-08-01 17:07:37,586 INFO Total false positives: 12
+2022-08-01 17:07:37,586 INFO Total false negatives: 5
+
+2022-08-01 17:07:37,596 INFO Stream # 42: D-12
+2022-08-01 17:07:37,888 INFO normalized prediction error: 0.08
+2022-08-01 17:07:38,557 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:38,558 INFO Total true positives: 49
+2022-08-01 17:07:38,559 INFO Total false positives: 12
+2022-08-01 17:07:38,563 INFO Total false negatives: 5
+
+2022-08-01 17:07:38,572 INFO Stream # 43: B-1
+2022-08-01 17:07:38,888 INFO normalized prediction error: 0.04
+2022-08-01 17:07:39,724 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:39,725 INFO Total true positives: 50
+2022-08-01 17:07:39,730 INFO Total false positives: 12
+2022-08-01 17:07:39,733 INFO Total false negatives: 5
+
+2022-08-01 17:07:39,741 INFO Stream # 44: G-6
+2022-08-01 17:07:40,117 INFO normalized prediction error: 0.01
+2022-08-01 17:07:41,160 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:41,160 INFO Total true positives: 51
+2022-08-01 17:07:41,161 INFO Total false positives: 12
+2022-08-01 17:07:41,165 INFO Total false negatives: 5
+
+2022-08-01 17:07:41,172 INFO Stream # 45: G-7
+2022-08-01 17:07:41,528 INFO normalized prediction error: 0.03
+2022-08-01 17:07:42,738 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-08-01 17:07:42,738 INFO Total true positives: 54
+2022-08-01 17:07:42,740 INFO Total false positives: 12
+2022-08-01 17:07:42,743 INFO Total false negatives: 5
+
+2022-08-01 17:07:42,751 INFO Stream # 46: P-7
+2022-08-01 17:07:43,150 INFO normalized prediction error: 0.03
+2022-08-01 17:07:43,666 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:43,666 INFO Total true positives: 55
+2022-08-01 17:07:43,667 INFO Total false positives: 12
+2022-08-01 17:07:43,671 INFO Total false negatives: 5
+
+2022-08-01 17:07:43,678 INFO Stream # 47: R-1
+2022-08-01 17:07:44,054 INFO normalized prediction error: 0.01
+2022-08-01 17:07:44,905 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:44,906 INFO Total true positives: 56
+2022-08-01 17:07:44,907 INFO Total false positives: 12
+2022-08-01 17:07:44,910 INFO Total false negatives: 5
+
+2022-08-01 17:07:44,918 INFO Stream # 48: A-5
+2022-08-01 17:07:45,126 INFO normalized prediction error: 0.05
+2022-08-01 17:07:45,376 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:45,376 INFO Total true positives: 57
+2022-08-01 17:07:45,379 INFO Total false positives: 12
+2022-08-01 17:07:45,382 INFO Total false negatives: 5
+
+2022-08-01 17:07:45,389 INFO Stream # 49: A-6
+2022-08-01 17:07:45,585 INFO normalized prediction error: 0.01
+2022-08-01 17:07:46,008 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:46,008 INFO Total true positives: 58
+2022-08-01 17:07:46,009 INFO Total false positives: 12
+2022-08-01 17:07:46,013 INFO Total false negatives: 5
+
+2022-08-01 17:07:46,020 INFO Stream # 50: A-7
+2022-08-01 17:07:46,333 INFO normalized prediction error: 0.06
+2022-08-01 17:07:47,074 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:47,075 INFO Total true positives: 59
+2022-08-01 17:07:47,076 INFO Total false positives: 12
+2022-08-01 17:07:47,080 INFO Total false negatives: 5
+
+2022-08-01 17:07:47,088 INFO Stream # 51: D-13
+2022-08-01 17:07:47,421 INFO normalized prediction error: 0.02
+2022-08-01 17:07:48,380 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:48,380 INFO Total true positives: 60
+2022-08-01 17:07:48,382 INFO Total false positives: 12
+2022-08-01 17:07:48,385 INFO Total false negatives: 5
+
+2022-08-01 17:07:48,399 INFO Stream # 52: P-2
+2022-08-01 17:07:48,671 INFO normalized prediction error: 0.05
+2022-08-01 17:07:49,181 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:49,182 INFO Total true positives: 61
+2022-08-01 17:07:49,183 INFO Total false positives: 12
+2022-08-01 17:07:49,187 INFO Total false negatives: 5
+
+2022-08-01 17:07:49,196 INFO Stream # 53: A-8
+2022-08-01 17:07:49,520 INFO normalized prediction error: 0.10
+2022-08-01 17:07:50,159 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:50,160 INFO Total true positives: 62
+2022-08-01 17:07:50,161 INFO Total false positives: 12
+2022-08-01 17:07:50,164 INFO Total false negatives: 5
+
+2022-08-01 17:07:50,172 INFO Stream # 54: A-9
+2022-08-01 17:07:50,455 INFO normalized prediction error: 0.47
+2022-08-01 17:07:51,018 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:07:51,018 INFO Total true positives: 62
+2022-08-01 17:07:51,020 INFO Total false positives: 12
+2022-08-01 17:07:51,023 INFO Total false negatives: 6
+
+2022-08-01 17:07:51,031 INFO Stream # 55: F-3
+2022-08-01 17:07:51,417 INFO normalized prediction error: 0.01
+2022-08-01 17:07:51,820 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:07:51,820 INFO Total true positives: 62
+2022-08-01 17:07:51,822 INFO Total false positives: 12
+2022-08-01 17:07:51,825 INFO Total false negatives: 7
+
+2022-08-01 17:07:51,833 INFO Stream # 56: M-6
+2022-08-01 17:07:52,217 INFO normalized prediction error: 0.05
+2022-08-01 17:07:52,260 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:52,261 INFO Total true positives: 63
+2022-08-01 17:07:52,263 INFO Total false positives: 12
+2022-08-01 17:07:52,265 INFO Total false negatives: 7
+
+2022-08-01 17:07:52,276 INFO Stream # 57: M-1
+2022-08-01 17:07:52,638 INFO normalized prediction error: 0.06
+2022-08-01 17:07:52,645 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:07:52,645 INFO Total true positives: 63
+2022-08-01 17:07:52,646 INFO Total false positives: 12
+2022-08-01 17:07:52,647 INFO Total false negatives: 8
+
+2022-08-01 17:07:52,660 INFO Stream # 58: M-2
+2022-08-01 17:07:53,061 INFO normalized prediction error: 0.10
+2022-08-01 17:07:53,067 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:07:53,068 INFO Total true positives: 63
+2022-08-01 17:07:53,069 INFO Total false positives: 12
+2022-08-01 17:07:53,071 INFO Total false negatives: 9
+
+2022-08-01 17:07:53,085 INFO Stream # 59: S-2
+2022-08-01 17:07:53,289 INFO normalized prediction error: 0.01
+2022-08-01 17:07:53,303 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:53,303 INFO Total true positives: 64
+2022-08-01 17:07:53,304 INFO Total false positives: 12
+2022-08-01 17:07:53,305 INFO Total false negatives: 9
+
+2022-08-01 17:07:53,315 INFO Stream # 60: P-10
+2022-08-01 17:07:54,019 INFO normalized prediction error: 0.06
+2022-08-01 17:07:54,502 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:54,502 INFO Total true positives: 65
+2022-08-01 17:07:54,505 INFO Total false positives: 12
+2022-08-01 17:07:54,506 INFO Total false negatives: 9
+
+2022-08-01 17:07:54,514 INFO Stream # 61: T-4
+2022-08-01 17:07:54,898 INFO normalized prediction error: 0.10
+2022-08-01 17:07:54,911 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-01 17:07:54,913 INFO Total true positives: 65
+2022-08-01 17:07:54,913 INFO Total false positives: 12
+2022-08-01 17:07:54,914 INFO Total false negatives: 10
+
+2022-08-01 17:07:54,922 INFO Stream # 62: T-5
+2022-08-01 17:07:55,278 INFO normalized prediction error: 0.01
+2022-08-01 17:07:55,295 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:55,296 INFO Total true positives: 66
+2022-08-01 17:07:55,296 INFO Total false positives: 12
+2022-08-01 17:07:55,298 INFO Total false negatives: 10
+
+2022-08-01 17:07:55,306 INFO Stream # 63: F-7
+2022-08-01 17:07:55,727 INFO normalized prediction error: 0.17
+2022-08-01 17:07:55,963 INFO Channel Stats: TP: 2  FP: 1  FN: 1
+2022-08-01 17:07:55,963 INFO Total true positives: 68
+2022-08-01 17:07:55,964 INFO Total false positives: 13
+2022-08-01 17:07:55,968 INFO Total false negatives: 11
+
+2022-08-01 17:07:55,979 INFO Stream # 64: M-3
+2022-08-01 17:07:56,460 INFO normalized prediction error: 0.08
+2022-08-01 17:07:56,474 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:56,475 INFO Total true positives: 69
+2022-08-01 17:07:56,476 INFO Total false positives: 13
+2022-08-01 17:07:56,477 INFO Total false negatives: 11
+
+2022-08-01 17:07:56,490 INFO Stream # 65: M-4
+2022-08-01 17:07:56,933 INFO normalized prediction error: 0.12
+2022-08-01 17:07:56,960 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:56,970 INFO Total true positives: 70
+2022-08-01 17:07:56,971 INFO Total false positives: 13
+2022-08-01 17:07:56,973 INFO Total false negatives: 11
+
+2022-08-01 17:07:56,984 INFO Stream # 66: M-5
+2022-08-01 17:07:57,498 INFO normalized prediction error: 0.09
+2022-08-01 17:07:57,515 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:57,516 INFO Total true positives: 71
+2022-08-01 17:07:57,516 INFO Total false positives: 13
+2022-08-01 17:07:57,517 INFO Total false negatives: 11
+
+2022-08-01 17:07:57,530 INFO Stream # 67: P-15
+2022-08-01 17:07:58,283 INFO normalized prediction error: 0.02
+2022-08-01 17:07:58,488 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:07:58,488 INFO Total true positives: 72
+2022-08-01 17:07:58,493 INFO Total false positives: 13
+2022-08-01 17:07:58,494 INFO Total false negatives: 11
+
+2022-08-01 17:07:58,506 INFO Stream # 68: C-1
+2022-08-01 17:07:59,115 INFO normalized prediction error: 0.03
+2022-08-01 17:07:59,613 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-01 17:07:59,613 INFO Total true positives: 73
+2022-08-01 17:07:59,613 INFO Total false positives: 13
+2022-08-01 17:07:59,614 INFO Total false negatives: 12
+
+2022-08-01 17:07:59,624 INFO Stream # 69: C-2
+2022-08-01 17:07:59,851 INFO normalized prediction error: 0.11
+2022-08-01 17:07:59,862 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-01 17:07:59,863 INFO Total true positives: 74
+2022-08-01 17:07:59,863 INFO Total false positives: 13
+2022-08-01 17:07:59,868 INFO Total false negatives: 13
+
+2022-08-01 17:07:59,879 INFO Stream # 70: T-12
+2022-08-01 17:08:00,161 INFO normalized prediction error: 0.02
+2022-08-01 17:08:00,184 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:00,185 INFO Total true positives: 75
+2022-08-01 17:08:00,186 INFO Total false positives: 13
+2022-08-01 17:08:00,186 INFO Total false negatives: 13
+
+2022-08-01 17:08:00,195 INFO Stream # 71: T-13
+2022-08-01 17:08:00,500 INFO normalized prediction error: 0.03
+2022-08-01 17:08:00,512 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-08-01 17:08:00,513 INFO Total true positives: 75
+2022-08-01 17:08:00,513 INFO Total false positives: 13
+2022-08-01 17:08:00,514 INFO Total false negatives: 15
+
+2022-08-01 17:08:00,522 INFO Stream # 72: F-4
+2022-08-01 17:08:00,914 INFO normalized prediction error: 0.04
+2022-08-01 17:08:01,073 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:01,073 INFO Total true positives: 76
+2022-08-01 17:08:01,074 INFO Total false positives: 13
+2022-08-01 17:08:01,077 INFO Total false negatives: 15
+
+2022-08-01 17:08:01,090 INFO Stream # 73: F-5
+2022-08-01 17:08:01,584 INFO normalized prediction error: 0.02
+2022-08-01 17:08:01,804 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:01,805 INFO Total true positives: 77
+2022-08-01 17:08:01,806 INFO Total false positives: 13
+2022-08-01 17:08:01,810 INFO Total false negatives: 15
+
+2022-08-01 17:08:01,819 INFO Stream # 74: D-14
+2022-08-01 17:08:02,644 INFO normalized prediction error: 0.03
+2022-08-01 17:08:02,686 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-01 17:08:02,686 INFO Total true positives: 78
+2022-08-01 17:08:02,688 INFO Total false positives: 13
+2022-08-01 17:08:02,692 INFO Total false negatives: 16
+
+2022-08-01 17:08:02,702 INFO Stream # 75: T-9
+2022-08-01 17:08:03,017 INFO normalized prediction error: 0.16
+2022-08-01 17:08:03,030 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-08-01 17:08:03,031 INFO Total true positives: 78
+2022-08-01 17:08:03,032 INFO Total false positives: 13
+2022-08-01 17:08:03,035 INFO Total false negatives: 18
+
+2022-08-01 17:08:03,047 INFO Stream # 76: P-14
+2022-08-01 17:08:03,544 INFO normalized prediction error: 0.04
+2022-08-01 17:08:03,897 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:03,897 INFO Total true positives: 79
+2022-08-01 17:08:03,899 INFO Total false positives: 13
+2022-08-01 17:08:03,902 INFO Total false negatives: 18
+
+2022-08-01 17:08:03,910 INFO Stream # 77: T-8
+2022-08-01 17:08:04,164 INFO normalized prediction error: 0.04
+2022-08-01 17:08:04,174 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-01 17:08:04,175 INFO Total true positives: 81
+2022-08-01 17:08:04,176 INFO Total false positives: 13
+2022-08-01 17:08:04,179 INFO Total false negatives: 18
+
+2022-08-01 17:08:04,188 INFO Stream # 78: P-11
+2022-08-01 17:08:04,806 INFO normalized prediction error: 0.02
+2022-08-01 17:08:04,990 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-01 17:08:04,990 INFO Total true positives: 83
+2022-08-01 17:08:04,991 INFO Total false positives: 13
+2022-08-01 17:08:04,995 INFO Total false negatives: 18
+
+2022-08-01 17:08:05,004 INFO Stream # 79: D-15
+2022-08-01 17:08:05,379 INFO normalized prediction error: 0.15
+2022-08-01 17:08:05,388 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:05,388 INFO Total true positives: 84
+2022-08-01 17:08:05,389 INFO Total false positives: 13
+2022-08-01 17:08:05,389 INFO Total false negatives: 18
+
+2022-08-01 17:08:05,400 INFO Stream # 80: D-16
+2022-08-01 17:08:05,748 INFO normalized prediction error: 0.17
+2022-08-01 17:08:05,757 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:05,758 INFO Total true positives: 85
+2022-08-01 17:08:05,758 INFO Total false positives: 13
+2022-08-01 17:08:05,759 INFO Total false negatives: 18
+
+2022-08-01 17:08:05,769 INFO Stream # 81: M-7
+2022-08-01 17:08:06,217 INFO normalized prediction error: 0.02
+2022-08-01 17:08:06,234 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:06,234 INFO Total true positives: 86
+2022-08-01 17:08:06,235 INFO Total false positives: 13
+2022-08-01 17:08:06,235 INFO Total false negatives: 18
+
+2022-08-01 17:08:06,243 INFO Stream # 82: F-8
+2022-08-01 17:08:06,663 INFO normalized prediction error: 0.08
+2022-08-01 17:08:06,683 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-01 17:08:06,684 INFO Total true positives: 87
+2022-08-01 17:08:06,685 INFO Total false positives: 13
+2022-08-01 17:08:06,686 INFO Total false negatives: 18
+
+2022-08-01 17:08:06,694 INFO Final Totals:
+2022-08-01 17:08:06,695 INFO -----------------
+2022-08-01 17:08:06,696 INFO True Positives: 87
+2022-08-01 17:08:06,700 INFO False Positives: 13
+2022-08-01 17:08:06,701 INFO False Negatives: 18
+
+2022-08-01 17:08:06,701 INFO Precision: 0.87
+2022-08-01 17:08:06,702 INFO Recall: 0.83
+2022-08-02 18:27:05,813 INFO 82 channels found for processing.
+2022-08-02 18:27:05,892 INFO Stream # 1: P-1
+2022-08-02 18:27:08,157 INFO normalized prediction error: 0.09
+2022-08-02 18:27:09,385 INFO Channel Stats: TP: 3  FP: 1  FN: 0
+2022-08-02 18:27:09,387 INFO Total true positives: 3
+2022-08-02 18:27:09,387 INFO Total false positives: 1
+2022-08-02 18:27:09,387 INFO Total false negatives: 0
+
+2022-08-02 18:27:09,559 INFO Stream # 2: S-1
+2022-08-02 18:27:10,828 INFO normalized prediction error: 0.19
+2022-08-02 18:27:11,754 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:11,755 INFO Total true positives: 4
+2022-08-02 18:27:11,755 INFO Total false positives: 1
+2022-08-02 18:27:11,755 INFO Total false negatives: 0
+
+2022-08-02 18:27:11,761 INFO Stream # 3: E-1
+2022-08-02 18:27:16,371 INFO normalized prediction error: 0.07
+2022-08-02 18:27:18,062 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-02 18:27:18,062 INFO Total true positives: 6
+2022-08-02 18:27:18,063 INFO Total false positives: 2
+2022-08-02 18:27:18,063 INFO Total false negatives: 0
+
+2022-08-02 18:27:18,282 INFO Stream # 4: E-2
+2022-08-02 18:27:21,924 INFO normalized prediction error: 0.07
+2022-08-02 18:27:23,886 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:23,887 INFO Total true positives: 7
+2022-08-02 18:27:23,888 INFO Total false positives: 2
+2022-08-02 18:27:23,892 INFO Total false negatives: 0
+
+2022-08-02 18:27:24,167 INFO Stream # 5: E-3
+2022-08-02 18:27:25,090 INFO normalized prediction error: 0.02
+2022-08-02 18:27:26,306 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:26,307 INFO Total true positives: 8
+2022-08-02 18:27:26,311 INFO Total false positives: 2
+2022-08-02 18:27:26,312 INFO Total false negatives: 0
+
+2022-08-02 18:27:26,443 INFO Stream # 6: E-4
+2022-08-02 18:27:27,726 INFO normalized prediction error: 0.06
+2022-08-02 18:27:28,563 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:28,564 INFO Total true positives: 9
+2022-08-02 18:27:28,564 INFO Total false positives: 2
+2022-08-02 18:27:28,565 INFO Total false negatives: 0
+
+2022-08-02 18:27:28,571 INFO Stream # 7: E-5
+2022-08-02 18:27:29,151 INFO normalized prediction error: 0.08
+2022-08-02 18:27:30,004 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:30,006 INFO Total true positives: 10
+2022-08-02 18:27:30,009 INFO Total false positives: 2
+2022-08-02 18:27:30,011 INFO Total false negatives: 0
+
+2022-08-02 18:27:30,018 INFO Stream # 8: E-6
+2022-08-02 18:27:30,761 INFO normalized prediction error: 0.01
+2022-08-02 18:27:31,995 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:31,996 INFO Total true positives: 11
+2022-08-02 18:27:31,997 INFO Total false positives: 2
+2022-08-02 18:27:32,000 INFO Total false negatives: 0
+
+2022-08-02 18:27:32,007 INFO Stream # 9: E-7
+2022-08-02 18:27:33,196 INFO normalized prediction error: 0.03
+2022-08-02 18:27:34,233 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:34,233 INFO Total true positives: 12
+2022-08-02 18:27:34,236 INFO Total false positives: 2
+2022-08-02 18:27:34,238 INFO Total false negatives: 0
+
+2022-08-02 18:27:34,245 INFO Stream # 10: E-8
+2022-08-02 18:27:35,073 INFO normalized prediction error: 0.07
+2022-08-02 18:27:35,759 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:35,759 INFO Total true positives: 13
+2022-08-02 18:27:35,761 INFO Total false positives: 2
+2022-08-02 18:27:35,764 INFO Total false negatives: 0
+
+2022-08-02 18:27:35,776 INFO Stream # 11: E-9
+2022-08-02 18:27:36,871 INFO normalized prediction error: 0.05
+2022-08-02 18:27:37,473 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:37,474 INFO Total true positives: 14
+2022-08-02 18:27:37,475 INFO Total false positives: 2
+2022-08-02 18:27:37,479 INFO Total false negatives: 0
+
+2022-08-02 18:27:37,490 INFO Stream # 12: E-10
+2022-08-02 18:27:38,345 INFO normalized prediction error: 0.07
+2022-08-02 18:27:39,479 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-02 18:27:39,479 INFO Total true positives: 16
+2022-08-02 18:27:39,482 INFO Total false positives: 3
+2022-08-02 18:27:39,486 INFO Total false negatives: 0
+
+2022-08-02 18:27:39,491 INFO Stream # 13: E-11
+2022-08-02 18:27:40,203 INFO normalized prediction error: 0.08
+2022-08-02 18:27:41,655 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-02 18:27:41,655 INFO Total true positives: 18
+2022-08-02 18:27:41,657 INFO Total false positives: 4
+2022-08-02 18:27:41,660 INFO Total false negatives: 0
+
+2022-08-02 18:27:41,673 INFO Stream # 14: E-12
+2022-08-02 18:27:42,203 INFO normalized prediction error: 0.06
+2022-08-02 18:27:43,242 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-08-02 18:27:43,243 INFO Total true positives: 20
+2022-08-02 18:27:43,244 INFO Total false positives: 5
+2022-08-02 18:27:43,249 INFO Total false negatives: 0
+
+2022-08-02 18:27:43,254 INFO Stream # 15: E-13
+2022-08-02 18:27:44,027 INFO normalized prediction error: 0.06
+2022-08-02 18:27:44,979 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2022-08-02 18:27:44,979 INFO Total true positives: 22
+2022-08-02 18:27:44,981 INFO Total false positives: 5
+2022-08-02 18:27:44,984 INFO Total false negatives: 1
+
+2022-08-02 18:27:44,991 INFO Stream # 16: A-1
+2022-08-02 18:27:45,994 INFO normalized prediction error: 0.01
+2022-08-02 18:27:47,010 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:47,010 INFO Total true positives: 23
+2022-08-02 18:27:47,012 INFO Total false positives: 5
+2022-08-02 18:27:47,015 INFO Total false negatives: 1
+
+2022-08-02 18:27:47,021 INFO Stream # 17: D-1
+2022-08-02 18:27:47,698 INFO normalized prediction error: 0.07
+2022-08-02 18:27:48,497 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:48,498 INFO Total true positives: 24
+2022-08-02 18:27:48,499 INFO Total false positives: 5
+2022-08-02 18:27:48,503 INFO Total false negatives: 1
+
+2022-08-02 18:27:48,511 INFO Stream # 18: P-2
+2022-08-02 18:27:49,150 INFO normalized prediction error: 0.05
+2022-08-02 18:27:49,780 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:49,781 INFO Total true positives: 25
+2022-08-02 18:27:49,782 INFO Total false positives: 5
+2022-08-02 18:27:49,787 INFO Total false negatives: 1
+
+2022-08-02 18:27:49,807 INFO Stream # 19: P-3
+2022-08-02 18:27:50,289 INFO normalized prediction error: 0.04
+2022-08-02 18:27:51,053 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:51,054 INFO Total true positives: 26
+2022-08-02 18:27:51,054 INFO Total false positives: 5
+2022-08-02 18:27:51,057 INFO Total false negatives: 1
+
+2022-08-02 18:27:51,062 INFO Stream # 20: D-2
+2022-08-02 18:27:51,651 INFO normalized prediction error: 0.02
+2022-08-02 18:27:52,527 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:52,527 INFO Total true positives: 27
+2022-08-02 18:27:52,529 INFO Total false positives: 5
+2022-08-02 18:27:52,532 INFO Total false negatives: 1
+
+2022-08-02 18:27:52,539 INFO Stream # 21: D-3
+2022-08-02 18:27:53,064 INFO normalized prediction error: 0.06
+2022-08-02 18:27:53,684 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:53,684 INFO Total true positives: 28
+2022-08-02 18:27:53,686 INFO Total false positives: 5
+2022-08-02 18:27:53,690 INFO Total false negatives: 1
+
+2022-08-02 18:27:53,696 INFO Stream # 22: D-4
+2022-08-02 18:27:54,250 INFO normalized prediction error: 0.05
+2022-08-02 18:27:54,913 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:54,914 INFO Total true positives: 29
+2022-08-02 18:27:54,915 INFO Total false positives: 5
+2022-08-02 18:27:54,916 INFO Total false negatives: 1
+
+2022-08-02 18:27:54,927 INFO Stream # 23: A-2
+2022-08-02 18:27:55,472 INFO normalized prediction error: 0.07
+2022-08-02 18:27:56,381 INFO Channel Stats: TP: 1  FP: 2  FN: 0
+2022-08-02 18:27:56,382 INFO Total true positives: 30
+2022-08-02 18:27:56,390 INFO Total false positives: 7
+2022-08-02 18:27:56,391 INFO Total false negatives: 1
+
+2022-08-02 18:27:56,400 INFO Stream # 24: A-3
+2022-08-02 18:27:57,060 INFO normalized prediction error: 0.05
+2022-08-02 18:27:58,022 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:27:58,023 INFO Total true positives: 31
+2022-08-02 18:27:58,024 INFO Total false positives: 7
+2022-08-02 18:27:58,024 INFO Total false negatives: 1
+
+2022-08-02 18:27:58,033 INFO Stream # 25: A-4
+2022-08-02 18:27:58,814 INFO normalized prediction error: 0.06
+2022-08-02 18:28:00,047 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:00,048 INFO Total true positives: 32
+2022-08-02 18:28:00,049 INFO Total false positives: 7
+2022-08-02 18:28:00,050 INFO Total false negatives: 1
+
+2022-08-02 18:28:00,061 INFO Stream # 26: G-1
+2022-08-02 18:28:00,608 INFO normalized prediction error: 0.07
+2022-08-02 18:28:01,661 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-08-02 18:28:01,661 INFO Total true positives: 32
+2022-08-02 18:28:01,662 INFO Total false positives: 8
+2022-08-02 18:28:01,663 INFO Total false negatives: 2
+
+2022-08-02 18:28:01,670 INFO Stream # 27: G-2
+2022-08-02 18:28:02,233 INFO normalized prediction error: 0.01
+2022-08-02 18:28:03,009 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:03,010 INFO Total true positives: 33
+2022-08-02 18:28:03,011 INFO Total false positives: 8
+2022-08-02 18:28:03,014 INFO Total false negatives: 2
+
+2022-08-02 18:28:03,022 INFO Stream # 28: D-5
+2022-08-02 18:28:03,528 INFO normalized prediction error: 0.12
+2022-08-02 18:28:04,305 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:04,305 INFO Total true positives: 34
+2022-08-02 18:28:04,307 INFO Total false positives: 8
+2022-08-02 18:28:04,307 INFO Total false negatives: 2
+
+2022-08-02 18:28:04,316 INFO Stream # 29: D-6
+2022-08-02 18:28:04,851 INFO normalized prediction error: 0.05
+2022-08-02 18:28:05,756 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:05,757 INFO Total true positives: 35
+2022-08-02 18:28:05,758 INFO Total false positives: 8
+2022-08-02 18:28:05,759 INFO Total false negatives: 2
+
+2022-08-02 18:28:05,767 INFO Stream # 30: D-7
+2022-08-02 18:28:06,248 INFO normalized prediction error: 0.05
+2022-08-02 18:28:07,021 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:07,022 INFO Total true positives: 36
+2022-08-02 18:28:07,023 INFO Total false positives: 8
+2022-08-02 18:28:07,023 INFO Total false negatives: 2
+
+2022-08-02 18:28:07,032 INFO Stream # 31: F-1
+2022-08-02 18:28:07,531 INFO normalized prediction error: 0.10
+2022-08-02 18:28:08,460 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-08-02 18:28:08,461 INFO Total true positives: 36
+2022-08-02 18:28:08,462 INFO Total false positives: 9
+2022-08-02 18:28:08,462 INFO Total false negatives: 3
+
+2022-08-02 18:28:08,470 INFO Stream # 32: P-4
+2022-08-02 18:28:09,014 INFO normalized prediction error: 0.02
+2022-08-02 18:28:10,767 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-08-02 18:28:10,768 INFO Total true positives: 39
+2022-08-02 18:28:10,769 INFO Total false positives: 9
+2022-08-02 18:28:10,770 INFO Total false negatives: 3
+
+2022-08-02 18:28:10,787 INFO Stream # 33: G-3
+2022-08-02 18:28:12,479 INFO normalized prediction error: 0.01
+2022-08-02 18:28:14,064 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2022-08-02 18:28:14,078 INFO Total true positives: 40
+2022-08-02 18:28:14,082 INFO Total false positives: 10
+2022-08-02 18:28:14,083 INFO Total false negatives: 3
+
+2022-08-02 18:28:14,099 INFO Stream # 34: T-1
+2022-08-02 18:28:14,659 INFO normalized prediction error: 0.05
+2022-08-02 18:28:16,097 INFO Channel Stats: TP: 1  FP: 2  FN: 1
+2022-08-02 18:28:16,098 INFO Total true positives: 41
+2022-08-02 18:28:16,099 INFO Total false positives: 12
+2022-08-02 18:28:16,099 INFO Total false negatives: 4
+
+2022-08-02 18:28:16,113 INFO Stream # 35: T-2
+2022-08-02 18:28:16,754 INFO normalized prediction error: 0.04
+2022-08-02 18:28:17,623 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:28:17,623 INFO Total true positives: 42
+2022-08-02 18:28:17,624 INFO Total false positives: 12
+2022-08-02 18:28:17,625 INFO Total false negatives: 4
+
+2022-08-02 18:28:17,637 INFO Stream # 36: D-8
+2022-08-02 18:28:18,179 INFO normalized prediction error: 0.00
+2022-08-02 18:28:19,426 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:28:19,427 INFO Total true positives: 42
+2022-08-02 18:28:19,429 INFO Total false positives: 12
+2022-08-02 18:28:19,429 INFO Total false negatives: 5
+
+2022-08-02 18:28:19,439 INFO Stream # 37: D-9
+2022-08-02 18:28:19,897 INFO normalized prediction error: 0.02
+2022-08-02 18:29:23,753 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:23,753 INFO Total true positives: 43
+2022-08-02 18:29:23,755 INFO Total false positives: 12
+2022-08-02 18:29:23,761 INFO Total false negatives: 5
+
+2022-08-02 18:29:23,769 INFO Stream # 38: F-2
+2022-08-02 18:29:24,250 INFO normalized prediction error: 0.05
+2022-08-02 18:29:25,225 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:25,226 INFO Total true positives: 44
+2022-08-02 18:29:25,227 INFO Total false positives: 12
+2022-08-02 18:29:25,228 INFO Total false negatives: 5
+
+2022-08-02 18:29:25,239 INFO Stream # 39: G-4
+2022-08-02 18:29:25,729 INFO normalized prediction error: 0.01
+2022-08-02 18:29:26,540 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:26,541 INFO Total true positives: 45
+2022-08-02 18:29:26,542 INFO Total false positives: 12
+2022-08-02 18:29:26,543 INFO Total false negatives: 5
+
+2022-08-02 18:29:26,554 INFO Stream # 40: T-3
+2022-08-02 18:29:27,037 INFO normalized prediction error: 0.00
+2022-08-02 18:29:28,228 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-02 18:29:28,228 INFO Total true positives: 47
+2022-08-02 18:29:28,230 INFO Total false positives: 12
+2022-08-02 18:29:28,234 INFO Total false negatives: 5
+
+2022-08-02 18:29:28,241 INFO Stream # 41: D-11
+2022-08-02 18:29:28,757 INFO normalized prediction error: 0.01
+2022-08-02 18:29:29,419 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:29,420 INFO Total true positives: 48
+2022-08-02 18:29:29,424 INFO Total false positives: 12
+2022-08-02 18:29:29,434 INFO Total false negatives: 5
+
+2022-08-02 18:29:29,442 INFO Stream # 42: D-12
+2022-08-02 18:29:29,805 INFO normalized prediction error: 0.08
+2022-08-02 18:29:30,611 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:30,612 INFO Total true positives: 49
+2022-08-02 18:29:30,626 INFO Total false positives: 12
+2022-08-02 18:29:30,626 INFO Total false negatives: 5
+
+2022-08-02 18:29:30,642 INFO Stream # 43: B-1
+2022-08-02 18:29:31,070 INFO normalized prediction error: 0.04
+2022-08-02 18:29:32,119 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:32,119 INFO Total true positives: 50
+2022-08-02 18:29:32,121 INFO Total false positives: 12
+2022-08-02 18:29:32,124 INFO Total false negatives: 5
+
+2022-08-02 18:29:32,141 INFO Stream # 44: G-6
+2022-08-02 18:29:32,667 INFO normalized prediction error: 0.01
+2022-08-02 18:29:33,885 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:33,886 INFO Total true positives: 51
+2022-08-02 18:29:33,887 INFO Total false positives: 12
+2022-08-02 18:29:33,887 INFO Total false negatives: 5
+
+2022-08-02 18:29:33,896 INFO Stream # 45: G-7
+2022-08-02 18:29:34,558 INFO normalized prediction error: 0.03
+2022-08-02 18:29:36,387 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-08-02 18:29:36,394 INFO Total true positives: 54
+2022-08-02 18:29:36,395 INFO Total false positives: 12
+2022-08-02 18:29:36,396 INFO Total false negatives: 5
+
+2022-08-02 18:29:36,407 INFO Stream # 46: P-7
+2022-08-02 18:29:37,357 INFO normalized prediction error: 0.03
+2022-08-02 18:29:38,549 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:38,550 INFO Total true positives: 55
+2022-08-02 18:29:38,552 INFO Total false positives: 12
+2022-08-02 18:29:38,553 INFO Total false negatives: 5
+
+2022-08-02 18:29:38,568 INFO Stream # 47: R-1
+2022-08-02 18:29:39,517 INFO normalized prediction error: 0.01
+2022-08-02 18:29:40,994 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:40,995 INFO Total true positives: 56
+2022-08-02 18:29:40,996 INFO Total false positives: 12
+2022-08-02 18:29:40,997 INFO Total false negatives: 5
+
+2022-08-02 18:29:41,004 INFO Stream # 48: A-5
+2022-08-02 18:29:41,477 INFO normalized prediction error: 0.05
+2022-08-02 18:29:41,790 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:41,790 INFO Total true positives: 57
+2022-08-02 18:29:41,791 INFO Total false positives: 12
+2022-08-02 18:29:41,794 INFO Total false negatives: 5
+
+2022-08-02 18:29:41,801 INFO Stream # 49: A-6
+2022-08-02 18:29:42,169 INFO normalized prediction error: 0.01
+2022-08-02 18:29:42,884 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:42,884 INFO Total true positives: 58
+2022-08-02 18:29:42,885 INFO Total false positives: 12
+2022-08-02 18:29:42,886 INFO Total false negatives: 5
+
+2022-08-02 18:29:42,908 INFO Stream # 50: A-7
+2022-08-02 18:29:43,464 INFO normalized prediction error: 0.06
+2022-08-02 18:29:44,746 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:44,746 INFO Total true positives: 59
+2022-08-02 18:29:44,747 INFO Total false positives: 12
+2022-08-02 18:29:44,748 INFO Total false negatives: 5
+
+2022-08-02 18:29:44,759 INFO Stream # 51: D-13
+2022-08-02 18:29:45,228 INFO normalized prediction error: 0.02
+2022-08-02 18:29:46,381 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:46,381 INFO Total true positives: 60
+2022-08-02 18:29:46,383 INFO Total false positives: 12
+2022-08-02 18:29:46,383 INFO Total false negatives: 5
+
+2022-08-02 18:29:46,430 INFO Stream # 52: P-2
+2022-08-02 18:29:46,758 INFO normalized prediction error: 0.05
+2022-08-02 18:29:47,631 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:47,632 INFO Total true positives: 61
+2022-08-02 18:29:47,635 INFO Total false positives: 12
+2022-08-02 18:29:47,635 INFO Total false negatives: 5
+
+2022-08-02 18:29:47,654 INFO Stream # 53: A-8
+2022-08-02 18:29:48,252 INFO normalized prediction error: 0.10
+2022-08-02 18:29:49,301 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:49,302 INFO Total true positives: 62
+2022-08-02 18:29:49,305 INFO Total false positives: 12
+2022-08-02 18:29:49,306 INFO Total false negatives: 5
+
+2022-08-02 18:29:49,317 INFO Stream # 54: A-9
+2022-08-02 18:29:49,808 INFO normalized prediction error: 0.47
+2022-08-02 18:29:50,585 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:29:50,586 INFO Total true positives: 62
+2022-08-02 18:29:50,587 INFO Total false positives: 12
+2022-08-02 18:29:50,588 INFO Total false negatives: 6
+
+2022-08-02 18:29:50,601 INFO Stream # 55: F-3
+2022-08-02 18:29:51,165 INFO normalized prediction error: 0.01
+2022-08-02 18:29:51,756 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:29:51,756 INFO Total true positives: 62
+2022-08-02 18:29:51,758 INFO Total false positives: 12
+2022-08-02 18:29:51,759 INFO Total false negatives: 7
+
+2022-08-02 18:29:51,768 INFO Stream # 56: M-6
+2022-08-02 18:29:52,228 INFO normalized prediction error: 0.05
+2022-08-02 18:29:52,244 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:52,245 INFO Total true positives: 63
+2022-08-02 18:29:52,245 INFO Total false positives: 12
+2022-08-02 18:29:52,246 INFO Total false negatives: 7
+
+2022-08-02 18:29:52,256 INFO Stream # 57: M-1
+2022-08-02 18:29:52,733 INFO normalized prediction error: 0.06
+2022-08-02 18:29:52,744 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:29:52,745 INFO Total true positives: 63
+2022-08-02 18:29:52,747 INFO Total false positives: 12
+2022-08-02 18:29:52,748 INFO Total false negatives: 8
+
+2022-08-02 18:29:52,758 INFO Stream # 58: M-2
+2022-08-02 18:29:53,391 INFO normalized prediction error: 0.10
+2022-08-02 18:29:53,403 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:29:53,405 INFO Total true positives: 63
+2022-08-02 18:29:53,405 INFO Total false positives: 12
+2022-08-02 18:29:53,406 INFO Total false negatives: 9
+
+2022-08-02 18:29:53,421 INFO Stream # 59: S-2
+2022-08-02 18:29:53,821 INFO normalized prediction error: 0.01
+2022-08-02 18:29:53,844 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:53,847 INFO Total true positives: 64
+2022-08-02 18:29:53,848 INFO Total false positives: 12
+2022-08-02 18:29:53,848 INFO Total false negatives: 9
+
+2022-08-02 18:29:53,856 INFO Stream # 60: P-10
+2022-08-02 18:29:54,792 INFO normalized prediction error: 0.06
+2022-08-02 18:29:55,387 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:55,387 INFO Total true positives: 65
+2022-08-02 18:29:55,388 INFO Total false positives: 12
+2022-08-02 18:29:55,389 INFO Total false negatives: 9
+
+2022-08-02 18:29:55,403 INFO Stream # 61: T-4
+2022-08-02 18:29:56,201 INFO normalized prediction error: 0.10
+2022-08-02 18:29:56,212 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-08-02 18:29:56,213 INFO Total true positives: 65
+2022-08-02 18:29:56,216 INFO Total false positives: 12
+2022-08-02 18:29:56,217 INFO Total false negatives: 10
+
+2022-08-02 18:29:56,224 INFO Stream # 62: T-5
+2022-08-02 18:29:56,699 INFO normalized prediction error: 0.01
+2022-08-02 18:29:56,721 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:56,721 INFO Total true positives: 66
+2022-08-02 18:29:56,723 INFO Total false positives: 12
+2022-08-02 18:29:56,724 INFO Total false negatives: 10
+
+2022-08-02 18:29:56,739 INFO Stream # 63: F-7
+2022-08-02 18:29:58,071 INFO normalized prediction error: 0.17
+2022-08-02 18:29:58,404 INFO Channel Stats: TP: 2  FP: 1  FN: 1
+2022-08-02 18:29:58,404 INFO Total true positives: 68
+2022-08-02 18:29:58,406 INFO Total false positives: 13
+2022-08-02 18:29:58,407 INFO Total false negatives: 11
+
+2022-08-02 18:29:58,421 INFO Stream # 64: M-3
+2022-08-02 18:29:59,127 INFO normalized prediction error: 0.08
+2022-08-02 18:29:59,151 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:59,152 INFO Total true positives: 69
+2022-08-02 18:29:59,152 INFO Total false positives: 13
+2022-08-02 18:29:59,153 INFO Total false negatives: 11
+
+2022-08-02 18:29:59,164 INFO Stream # 65: M-4
+2022-08-02 18:29:59,656 INFO normalized prediction error: 0.12
+2022-08-02 18:29:59,672 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:29:59,672 INFO Total true positives: 70
+2022-08-02 18:29:59,673 INFO Total false positives: 13
+2022-08-02 18:29:59,674 INFO Total false negatives: 11
+
+2022-08-02 18:29:59,683 INFO Stream # 66: M-5
+2022-08-02 18:30:00,134 INFO normalized prediction error: 0.09
+2022-08-02 18:30:00,166 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:00,167 INFO Total true positives: 71
+2022-08-02 18:30:00,168 INFO Total false positives: 13
+2022-08-02 18:30:00,169 INFO Total false negatives: 11
+
+2022-08-02 18:30:00,188 INFO Stream # 67: P-15
+2022-08-02 18:30:00,916 INFO normalized prediction error: 0.02
+2022-08-02 18:30:01,170 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:01,171 INFO Total true positives: 72
+2022-08-02 18:30:01,174 INFO Total false positives: 13
+2022-08-02 18:30:01,175 INFO Total false negatives: 11
+
+2022-08-02 18:30:01,319 INFO Stream # 68: C-1
+2022-08-02 18:30:02,249 INFO normalized prediction error: 0.03
+2022-08-02 18:30:02,292 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-02 18:30:02,293 INFO Total true positives: 73
+2022-08-02 18:30:02,296 INFO Total false positives: 13
+2022-08-02 18:30:02,297 INFO Total false negatives: 12
+
+2022-08-02 18:30:02,313 INFO Stream # 69: C-2
+2022-08-02 18:30:02,746 INFO normalized prediction error: 0.11
+2022-08-02 18:30:02,782 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-02 18:30:02,782 INFO Total true positives: 74
+2022-08-02 18:30:02,785 INFO Total false positives: 13
+2022-08-02 18:30:02,786 INFO Total false negatives: 13
+
+2022-08-02 18:30:02,803 INFO Stream # 70: T-12
+2022-08-02 18:30:03,382 INFO normalized prediction error: 0.02
+2022-08-02 18:30:03,460 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:03,460 INFO Total true positives: 75
+2022-08-02 18:30:03,462 INFO Total false positives: 13
+2022-08-02 18:30:03,463 INFO Total false negatives: 13
+
+2022-08-02 18:30:03,476 INFO Stream # 71: T-13
+2022-08-02 18:30:04,561 INFO normalized prediction error: 0.03
+2022-08-02 18:30:04,584 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-08-02 18:30:04,594 INFO Total true positives: 75
+2022-08-02 18:30:04,597 INFO Total false positives: 13
+2022-08-02 18:30:04,598 INFO Total false negatives: 15
+
+2022-08-02 18:30:04,645 INFO Stream # 72: F-4
+2022-08-02 18:30:05,416 INFO normalized prediction error: 0.04
+2022-08-02 18:30:05,661 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:05,662 INFO Total true positives: 76
+2022-08-02 18:30:05,664 INFO Total false positives: 13
+2022-08-02 18:30:05,665 INFO Total false negatives: 15
+
+2022-08-02 18:30:05,685 INFO Stream # 73: F-5
+2022-08-02 18:30:06,447 INFO normalized prediction error: 0.02
+2022-08-02 18:30:06,903 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:06,905 INFO Total true positives: 77
+2022-08-02 18:30:06,906 INFO Total false positives: 13
+2022-08-02 18:30:06,907 INFO Total false negatives: 15
+
+2022-08-02 18:30:06,926 INFO Stream # 74: D-14
+2022-08-02 18:30:07,540 INFO normalized prediction error: 0.03
+2022-08-02 18:30:07,584 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-08-02 18:30:07,585 INFO Total true positives: 78
+2022-08-02 18:30:07,586 INFO Total false positives: 13
+2022-08-02 18:30:07,587 INFO Total false negatives: 16
+
+2022-08-02 18:30:07,613 INFO Stream # 75: T-9
+2022-08-02 18:30:07,963 INFO normalized prediction error: 0.16
+2022-08-02 18:30:07,969 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-08-02 18:30:07,970 INFO Total true positives: 78
+2022-08-02 18:30:07,971 INFO Total false positives: 13
+2022-08-02 18:30:07,972 INFO Total false negatives: 18
+
+2022-08-02 18:30:07,982 INFO Stream # 76: P-14
+2022-08-02 18:30:08,628 INFO normalized prediction error: 0.04
+2022-08-02 18:30:09,310 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:09,312 INFO Total true positives: 79
+2022-08-02 18:30:09,313 INFO Total false positives: 13
+2022-08-02 18:30:09,314 INFO Total false negatives: 18
+
+2022-08-02 18:30:09,332 INFO Stream # 77: T-8
+2022-08-02 18:30:09,811 INFO normalized prediction error: 0.04
+2022-08-02 18:30:09,848 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-02 18:30:09,849 INFO Total true positives: 81
+2022-08-02 18:30:09,852 INFO Total false positives: 13
+2022-08-02 18:30:09,854 INFO Total false negatives: 18
+
+2022-08-02 18:30:09,874 INFO Stream # 78: P-11
+2022-08-02 18:30:10,812 INFO normalized prediction error: 0.02
+2022-08-02 18:30:11,093 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-08-02 18:30:11,094 INFO Total true positives: 83
+2022-08-02 18:30:11,095 INFO Total false positives: 13
+2022-08-02 18:30:11,096 INFO Total false negatives: 18
+
+2022-08-02 18:30:11,113 INFO Stream # 79: D-15
+2022-08-02 18:30:11,697 INFO normalized prediction error: 0.15
+2022-08-02 18:30:11,708 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:11,708 INFO Total true positives: 84
+2022-08-02 18:30:11,709 INFO Total false positives: 13
+2022-08-02 18:30:11,709 INFO Total false negatives: 18
+
+2022-08-02 18:30:11,721 INFO Stream # 80: D-16
+2022-08-02 18:30:12,072 INFO normalized prediction error: 0.17
+2022-08-02 18:30:12,096 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:12,097 INFO Total true positives: 85
+2022-08-02 18:30:12,097 INFO Total false positives: 13
+2022-08-02 18:30:12,099 INFO Total false negatives: 18
+
+2022-08-02 18:30:12,107 INFO Stream # 81: M-7
+2022-08-02 18:30:12,512 INFO normalized prediction error: 0.02
+2022-08-02 18:30:12,543 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:12,544 INFO Total true positives: 86
+2022-08-02 18:30:12,545 INFO Total false positives: 13
+2022-08-02 18:30:12,545 INFO Total false negatives: 18
+
+2022-08-02 18:30:12,572 INFO Stream # 82: F-8
+2022-08-02 18:30:13,012 INFO normalized prediction error: 0.08
+2022-08-02 18:30:13,072 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-08-02 18:30:13,073 INFO Total true positives: 87
+2022-08-02 18:30:13,074 INFO Total false positives: 13
+2022-08-02 18:30:13,074 INFO Total false negatives: 18
+
+2022-08-02 18:30:13,212 INFO Final Totals:
+2022-08-02 18:30:13,212 INFO -----------------
+2022-08-02 18:30:13,215 INFO True Positives: 87
+2022-08-02 18:30:13,215 INFO False Positives: 13
+2022-08-02 18:30:13,217 INFO False Negatives: 18
+
+2022-08-02 18:30:13,217 INFO Precision: 0.87
+2022-08-02 18:30:13,218 INFO Recall: 0.83

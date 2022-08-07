@@ -409,9 +409,9 @@ class ErrorWindow:
             if (E_seq_max_sorted[i] - E_seq_max_sorted[i+1]) \
                     / E_seq_max_sorted[i] < self.config.p:
                 i_to_remove = np.append(i_to_remove, np.argwhere(
-                    E_seq_max == E_seq_max_sorted[i]))
+                    E_seq_max == E_seq_max_sorted[i])).astype(int)
             else:
-                i_to_remove = np.array([])
+                i_to_remove = np.array([]).astype(int)
         i_to_remove[::-1].sort()
 
         if len(i_to_remove) > 0:
